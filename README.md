@@ -12,9 +12,8 @@ The general form of a card is:
 {"id":1,
 "name":"",
 "gamename":"spacecaseos",
-"front","filename.png",
-"back","filename.png",
-MORE
+"front":"filename.png",
+"back":"filename.png"
 }
 ```
 
